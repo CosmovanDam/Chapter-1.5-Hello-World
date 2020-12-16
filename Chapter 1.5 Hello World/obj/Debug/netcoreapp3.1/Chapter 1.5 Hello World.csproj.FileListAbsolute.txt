@@ -1,0 +1,13 @@
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.exe
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.deps.json
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.runtimeconfig.json
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.runtimeconfig.dev.json
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.dll
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\bin\Debug\netcoreapp3.1\Chapter 1.5 Hello World.pdb
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.csprojAssemblyReference.cache
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.AssemblyInfoInputs.cache
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.AssemblyInfo.cs
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.dll
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.pdb
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\Chapter 1.5 Hello World\Chapter 1.5 Hello World\obj\Debug\netcoreapp3.1\Chapter 1.5 Hello World.genruntimeconfig.cache
